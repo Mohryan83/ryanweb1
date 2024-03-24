@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .profile-picture {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+    .profile-info {
+      margin-left: 220px;
+    }
+  </style>
+</head>
+<body>
+  <div class="profile-container">
+    <img class="profile-picture" src="C:\Users\RIAN\Downloads\Ryanfotobahagia.jpg" alt="Profile Picture">
+    <div class="profile-info">
+      <p><u><h2>Mohamad Ryan Herdiyana</h2></u></p>
+      <h4>Finance,Accounting & Audit</h4>
+      <h5><i>Memastikan laporan keuangan suatu perusahaan akurat dan sesuai dengan standar, melakukan pemeriksaan terhadap catatan keuangan perusahaan, melakukan audit internal, serta memberikan saran untuk meningkatkan efisiensi dan efektivitas bisnis.</i></h5>
+      <hr/>
+      <ul>
+        <li><strong>Email   :</strong> <a href="mailto:mohyan83@gmail.com">mohyan83@gmail.com</a></li>
+        <li><strong>Kontak  :</strong><a <id="Kontak" href="tel:083195075123">083195075123</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamad-r-h-88b6991a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Mohamad R.H</a></li>
+        <hr/>
+      </ul>
+    </ul>
+    <ul>
+      <h3>Kumpulan Audio</h3>
+      <p>Religi</p>
+      <audio src="C:\Users\RIAN\Desktop\Pemograman Web\media\audio\videoplayback.weba"
+      controls
+      >
+      </audio>
+      <p>Pembelajaran</p>
+      <audio src="C:\Users\RIAN\Desktop\Pemograman Web\media\audio\HTMLCSS.weba"
+      controls
+      >
+      </audio>
+      <hr/>
+      </ul>
+      <ul>
+        <h3>Kumpulan Video</h3>
+        <p>Religi</p>
+        <video src="C:\Users\RIAN\Desktop\Pemograman Web\media\video\videoplayback.mp4"
+        poster="C:\Users\RIAN\Desktop\Pemograman Web\media\MaherZain.img"
+        width=100%
+        controls
+        preload="none"
+        >
+        </video>
+        <p>Pembelajaran</p>
+        <video src="C:\Users\RIAN\Desktop\Pemograman Web\media\video\Belajar Web Dasar [HTML] - Episode 01 - Apa itu HTML.mp4"
+        poster="C:\Users\RIAN\Desktop\Pemograman Web\media\HTMLCSS.img"
+        width=100%
+        controls
+        preload="none"
+        >
+        </video>
+      </video>
+        <hr/>
+    </div>
+  </div>
+</body>
+</html>
